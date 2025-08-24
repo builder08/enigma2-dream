@@ -19,7 +19,7 @@ install_PYTHON = \
 	Element.py Playlist.py ParentalControl.py \
 	Opkg.py SelectionList.py Scanner.py SystemInfo.py PackageInfo.py \
 	Task.py Console.py ResourceManager.py TuneTest.py \
-	Keyboard.py Sensors.py FanControl.py HdmiCec.py RcModel.py \
+	Keyboard.py Sensors.py FanControl.py HdmiCec.py \
 	Netlink.py InputHotplug.py updatecheck.py \
 	ImportChannels.py StackTrace.py EpgLoadSave.py \
 	HdmiRecord.py PowerOffTimer.py NetworkTime.py FrontPanelLed.py International.py
